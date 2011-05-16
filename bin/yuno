@@ -1,0 +1,5 @@
+#!/usr/local/bin/ruby19
+
+require 'yuno'
+
+Yuno.run ARGV
