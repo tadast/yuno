@@ -1,0 +1,17 @@
+== Usage
+
+gem install yuno
+gem install imgur2
+
+>yuno 'first line' 'second line' # first on top, second at bottom
+or
+>yuno 'second line' # the first will default to "Y U NO"
+
+you can pipe to imgur (recommended)
+
+>yuno 'work' | imgur2
+
+== Credits
+
+All code ripped from https://github.com/drbrain/meme and made worse.
+Gem uses http://diylol.com, please go there and click some ads so the guy earns for the traffic you use
